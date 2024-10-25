@@ -1,6 +1,14 @@
 asgiref==3.7.2
 Django==5.0.2
 et-xmlfile==1.1.0
+numpy==2.1.2
 openpyxl==3.1.2
+pandas==2.2.3
+pandas-stubs==2.2.3.241009
+pip-autoremove==0.10.0
+python-dateutil==2.9.0.post0
+six==1.16.0
 sqlparse==0.4.4
+types-pytz==2024.2.0.20241003
 typing_extensions==4.9.0
+tzdata==2024.2
